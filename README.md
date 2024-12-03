@@ -1,0 +1,2 @@
+Here’s an update from my side for today: I’ve added test cases related to the search functionality using Cucumber. This approach has been particularly helpful in achieving the Gherkin style, making it easier to write and understand test cases. It also enables Imisi to contribute by writing test cases and cross-verifying them. I’ll be giving a demo today, and we can discuss it further during the session.
+
